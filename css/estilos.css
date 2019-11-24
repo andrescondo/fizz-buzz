@@ -11,12 +11,7 @@ h1
 	padding:20px;
 	background-color: #000;
 	color: #fff;
-}
-
-.js
-{
-	margin-left: 40px;
-}
+}	
 
 strong
 {
@@ -47,6 +42,7 @@ a
 	width: 20%;
 	font-size: 1.4em;
 	display: inherit;
+	margin-left: 40px;
 
 }
 
