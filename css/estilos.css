@@ -11,10 +11,9 @@ h1
 	padding:20px;
 	background-color: #000;
 	color: #fff;
-
 }
 
-div
+.js
 {
 	margin-left: 40px;
 }
@@ -36,6 +35,24 @@ a
 	font-size: 20px;
 	color: #298E10;	
 	background-color: #000;
+}
+
+.container
+{
+	max-width: 1024px;
+	display: flex;
+}
+.js
+{
+	width: 20%;
+	display: inherit;
+
+}
+
+.nota
+{
+	width: 80%;
+	display:inherit;
 }
 
 
