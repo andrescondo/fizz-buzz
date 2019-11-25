@@ -53,8 +53,18 @@ a
 	display:inherit;
 }
 
+.movil
+{
+	color:#F1EFEF;
+}
+
+
 @media screen and (max-width: 1023px)
 {
+	.movil
+	{
+		color:#000;
+	}
 
 }
 
