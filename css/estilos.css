@@ -75,6 +75,11 @@ a
 		margin-left: 20px;
 		font-size:1.1em ;
 	}
+	.movil
+	{
+		color:#000;
+	}
+
 }
 
 @media screen and (max-width: 480px)
@@ -96,6 +101,11 @@ a
 	{
 		font-size: .9em;
 	}
+	.movil
+	{
+		color:#000;
+	}
+
 
 }
 
@@ -118,4 +128,9 @@ a
 	{
 		font-size:.8em ;
 	}
+	.movil
+	{
+		color:#000;
+	}
+
 }
